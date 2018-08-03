@@ -1,7 +1,7 @@
 {
     "name": "asp.net",
     "version": "0.0.1",
-    "private": true,
+    "private": false,
     "description": "ds-projects",
     "repository": {
       "type": "git",
