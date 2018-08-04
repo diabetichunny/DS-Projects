@@ -24,3 +24,8 @@
 .footer-spacing{
     margin-right: 5px;
 }
+
+.proj-btn:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
