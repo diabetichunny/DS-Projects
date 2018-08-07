@@ -71,7 +71,7 @@ using MyProjects.Models;
             ");
             EndContext();
             BeginContext(369, 132, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da0f714aaff246a49e9f704f5ca71ac4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "91e1a2f524574017918290098e1292e2", async() => {
                 BeginContext(451, 46, true);
                 WriteLiteral("<i class=\"fas fa-chart-line\"></i> Stock Ticker");
                 EndContext();
@@ -96,7 +96,7 @@ using MyProjects.Models;
             WriteLiteral("\n        </div>\n        <div class=\"col-lg-4 col-md-6 col-sm-12 index-btn\">\n            ");
             EndContext();
             BeginContext(589, 148, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b2af40ba2d84c818df49a79aa71bf96", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "983de28f7a78416e820310faefa1fed9", async() => {
                 BeginContext(678, 55, true);
                 WriteLiteral("<i class=\"fas fa-theater-masks\"></i> Sentiment Analizer");
                 EndContext();
@@ -121,7 +121,7 @@ using MyProjects.Models;
             WriteLiteral("\n        </div>\n        <div class=\"col-lg-4 col-md-6 col-sm-12 index-btn\">\n            ");
             EndContext();
             BeginContext(825, 127, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e80db716b3f54ab1a0ad81bf1c9916c4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e61e0016850e4d6b9220ccd4d8e4f098", async() => {
                 BeginContext(903, 45, true);
                 WriteLiteral("<i class=\"fas fa-paw\"></i> Predict Cat or Dog");
                 EndContext();
